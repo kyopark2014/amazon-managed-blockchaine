@@ -1,5 +1,4 @@
-# amazon-managed-blockchaine
-It describes how to use blockchain in Amazon.
+# Amazon Managed Blockchaine
 
 
 [Amazon Managed Blockchain](https://aws.amazon.com/ko/managed-blockchain/)을 사용하면 NFT 개발자들은 블록체인 거래를 중계하거나 블록체인 데이터 상태를 쿼리하기 위해 신뢰할 수 있는 이더리움 노드를 유지에 하는 것에 대한 걱정없이 오로지 스마트 계약 개발에만 집중할 수 있습니다.
